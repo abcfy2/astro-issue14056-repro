@@ -10,13 +10,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.12.4",
+  "packageManager": "pnpm@10.13.0",
   "dependencies": {
     "@astrojs/react": "^4.3.0",
-    "@astrojs/vercel": "^8.2.1",
-    "astro": "^5.11.0",
+    "@astrojs/vercel": "^8.2.2",
+    "astro": "^5.11.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.3"
   }
 }
